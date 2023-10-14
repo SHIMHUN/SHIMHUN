@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=Rounded & text=test)
 ### Hi there 👋
 
 <!--
