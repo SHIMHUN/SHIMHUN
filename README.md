@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&text=test&color=random)
-### Hi there 👋
+### Hi there I'm Shim Hun 👋
 
 <!--
 **SHIMHUN/SHIMHUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
