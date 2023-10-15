@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Features
 
 ## Tech
-
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 ## Visitor
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShimhun&count_bg=%2376DB2A&title_bg=%23433434&icon=&icon_color=%23E7E7E7&title=ClickMe&edge_flat=false)](https:/github.com/SHIMHUN)        
 
