@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=test&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=Rounded&text=test&color=random)
 ### Hi there 👋
 
 <!--
