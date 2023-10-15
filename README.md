@@ -73,4 +73,4 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&theme=cobalt&show_icons=true)
