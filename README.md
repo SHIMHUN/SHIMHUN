@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Tech
 
 ## Visitor
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShimhun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ClickMe&edge_flat=false)](https://github.com/SHIMHUN)           
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShimhun&count_bg=%2376DB2A&title_bg=%23433434&icon=&icon_color=%23E7E7E7&title=ClickMe&edge_flat=false)](https:/github.com/SHIMHUN)        
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&theme=algolia&show_icons=true)
