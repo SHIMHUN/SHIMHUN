@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random) -->
 ### Hi, I'm Shim Hun 👋
-### Studying on java spring boot(23.01 ~)
+### 🌱 I’m currently learning spring boot(23.01 ~)
 
 <!--
 **SHIMHUN/SHIMHUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
