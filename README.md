@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=random)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random) -->
 ### Hi, I'm Shim Hun 👋
 
 <!--
