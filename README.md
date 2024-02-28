@@ -1,4 +1,5 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random) -->
+### 🌱 Studying spring boot 
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random)
 ### Hi, I'm Shim Hun 👋
 ### 🌱 Studying spring boot 
 
@@ -27,5 +28,4 @@ Here are some ideas to get you started:
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=algolia&show_icons=true)
 <br/><br/>
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={shimhun99})](https://solved.ac/{shimhun99}) -->
+-->
