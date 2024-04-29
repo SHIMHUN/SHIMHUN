@@ -10,4 +10,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=algolia&show_icons=true)
 <br/><br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun88)](https://solved.ac/shimhun88/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)
