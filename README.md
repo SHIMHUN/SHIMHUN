@@ -1,4 +1,4 @@
-###  Studying in spring boot, Algorithm 🌱
+###  Studying in spring boot & Algorithm 🌱
 <!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random)-->
 <!-- ### Hi, I'm Shim Hun 👋 -->
 <!-- ## Features -->
