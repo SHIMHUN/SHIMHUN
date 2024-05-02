@@ -6,14 +6,8 @@
 <!--## Tech
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 
-<--
-## Stats-->
+###  Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=algolia&show_icons=true)
 <br/><br/>
--->
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&theme=algolia&show_icons=true"/></a>
-</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)
