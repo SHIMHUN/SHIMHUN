@@ -3,6 +3,8 @@
 <!-- ### Hi, I'm Shim Hun 👋 -->
 <!-- ## Features -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=radical)
+
 <!--## Tech
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 
