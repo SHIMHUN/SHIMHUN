@@ -3,8 +3,6 @@
 <!-- ### Hi, I'm Shim Hun 👋 -->
 <!-- ## Features -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=radical)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=algolia&show_icons=true)
 <br/><br/>
 
