@@ -29,7 +29,7 @@
   </a>
 </div>
 
-### ⚡ Stack
+### 💻 Stack
 <div align="center">
 
   -----
