@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random)-->
+ㄷ<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=random)-->
 <!-- ### Hi, I'm Shim Hun 👋 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,7 +16,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=38)
 
-### 🌱 Studying now
+### 📚 Studying now
 <div align="center">
 
   -----
