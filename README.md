@@ -11,7 +11,7 @@
 <!-- ## Features -->
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=48)
 
 -----
 
