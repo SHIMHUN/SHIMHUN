@@ -41,6 +41,9 @@
     <a>
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
+    <a>
+      <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+    </a>
   </div>  
 </div>
   
