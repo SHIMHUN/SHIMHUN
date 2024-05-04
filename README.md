@@ -3,9 +3,8 @@
 <!-- ## Features -->
 <div align="center">
 
-  ###  🌱 Studying in spring boot & Algorithm
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN)](https://github.com/anuraghazra/github-readme-stats) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMHUN&layout=compact&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=chartreuse-dark&show_icons=true)
+  ### 🌱 Studying in spring boot
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMHUN&layout=compact&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=chartreuse-dark&show_icons=true)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)
   
