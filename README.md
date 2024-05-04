@@ -18,6 +18,7 @@
 
 ### 🌱 Studying now
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=OpenJDK&logoColor=white"/>
 
 ### ⚡ Stacks
 <div align="center">
