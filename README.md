@@ -17,13 +17,32 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=38)
 
 ### 🌱 Studying now
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=OpenJDK&logoColor=white"/>
+<div align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=OpenJDK&logoColor=white"/>
+  </a>
+  <a>
+    
+  </a>
+</div>
 
 ### ⚡ Stacks
 <div align="center">
 
   -----
+
+  <div align="center">
+    <a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=OpenJDK&logoColor=white"/>
+    </a>
+    <a>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=OpenJDK&logoColor=white"/>
+    </a>
+    <a>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=OpenJDK&logoColor=white"/>
+    </a>
+  </div>  
+</div>
   
 </div>
 
