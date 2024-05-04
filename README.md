@@ -11,7 +11,9 @@
 <!-- ## Features -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Hi, I'm Shim Hun 👋&fontSize=50"/>
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=48)
+
+-----
 
 <div align="center">
   
