@@ -14,7 +14,7 @@
 <!-- ## Features -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!%20Studying%20in%20Spring%20Boot🌱&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!%20Currently%20studying%20in%20Spring%20Boot🌱&fontSize=30)
 
 ### ⚡ Stacks
 <div align="center">
