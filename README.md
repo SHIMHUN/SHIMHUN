@@ -9,13 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMHUN&layout=compact&theme=tokyonight)
+### 🌱 Studying in spring boot
 -->
 <!-- ## Features -->
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=48)
-
-### 🌱 Studying in spring boot
 
 ### 🌱 Stats
 <div align="center">
