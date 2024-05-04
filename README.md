@@ -14,14 +14,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=48)
 
------
+### 🌱 Studying in spring boot
 
 <div align="center">
   
-  ### 🌱 Studying in spring boot
-  
   ### 🌱 Stats
-
+  
+  -----
+  
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
@@ -33,9 +33,12 @@
   
   <br><br><br><br><br><br><br><br>
   
-  -----
+ 
   
   ### 🌱 Algorithm
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMHUN&layout=compact&theme=tokyonight)
 
+  -----
+  
+  <div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMHUN&layout=compact&theme=tokyonight)
 </div>
