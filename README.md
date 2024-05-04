@@ -16,14 +16,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=48)
 
-### 🌱 Stacks
+### ⚡ Stacks
 <div align="center">
 
   -----
   
 </div>
 
-### 🔭 Stats
+### 💬 Stats
 <div align="center">
   
   -----
