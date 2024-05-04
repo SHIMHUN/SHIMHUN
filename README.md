@@ -23,7 +23,15 @@
   
   
   ### 🌱 Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMHUN&count_private=true&theme=chartreuse-dark&show_icons=true)[![GitHub Streak](https://streak-stats.demolab.com?user=SHIMHUN&theme=soft-green&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=SHIMHUN&hide_border=true&theme=soft-green" alt="" />
+    </a>
+  </div>
   
   -----
   
