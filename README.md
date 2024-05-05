@@ -79,9 +79,7 @@
   <br><br><br><br><br><br><br><br>
 </div>  
  
-  
-### 🤔 Algorithm
-<!-- <div align="center"> -->
+<div align="center">
 
   ### 🤔 Algorithm
   
