@@ -37,8 +37,9 @@
   </a>
 </div>
 
-### 💻 Stack
 <div align="center">
+
+  ### 💻 Stack
 
   -----
 
@@ -60,8 +61,9 @@
   
 </div>
 
-### 💬 Stats
 <div align="center">
+
+  ### 💬 Stats
   
   -----
   
@@ -80,6 +82,8 @@
   
 ### 🤔 Algorithm
 <!-- <div align="center"> -->
+
+  ### 🤔 Algorithm
   
   -----
   
