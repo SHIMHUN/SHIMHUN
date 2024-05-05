@@ -16,9 +16,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=38)
 
-### 📚 Studying now
-<div align="center">
 
+<div align="center">
+### 📚 Studying now
+  
   -----
   
   <a>
