@@ -16,12 +16,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI!👋%20I'm%20Shim%20Hun!&fontSize=38)
 
-
-<div align="center">
   
   -----
 
   ### 📚 Studying now
+
+<div align="center">
   
   <a>
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -37,7 +37,7 @@
   </a>
 </div>
 
-<div align="center">
+<!--<div align="center">-->
 
   -----
 
@@ -59,9 +59,9 @@
   </div>  
 </div>
   
-</div>
+<!--</div>-->
 
-<div align="center">
+<--<div align="center">-->
   
   -----
 
@@ -77,7 +77,7 @@
   </div>
   
   <br><br><br><br><br><br><br><br>
-</div>  
+<!--</div> --> 
  
 <!--<div align="center">-->
   
