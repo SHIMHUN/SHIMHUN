@@ -18,10 +18,10 @@
 
 
 <div align="center">
-
-  ### 📚 Studying now
   
   -----
+
+  ### 📚 Studying now
   
   <a>
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -39,9 +39,9 @@
 
 <div align="center">
 
-  ### 💻 Stack
-
   -----
+
+  ### 💻 Stack
 
   <div align="center">
     <a>
@@ -62,10 +62,10 @@
 </div>
 
 <div align="center">
-
-  ### 💬 Stats
   
   -----
+
+  ### 💬 Stats
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -80,10 +80,10 @@
 </div>  
  
 <div align="center">
-
-  ### 🤔 Algorithm
   
   -----
+
+  ### 🤔 Algorithm
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)
 
