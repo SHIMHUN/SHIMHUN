@@ -27,6 +27,9 @@
   <a>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
 </div>
 
 ### 💻 Stack
