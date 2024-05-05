@@ -29,7 +29,7 @@
   </a>
   <a>
     <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>githubactions
+  </a>
   <a>
     <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </a>
