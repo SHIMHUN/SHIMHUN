@@ -18,7 +18,6 @@
 
 
 <div align="center">
-  
   -----
 
   ### 📚 Studying now
