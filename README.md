@@ -35,6 +35,12 @@
   <a>
     <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  </a>
 </div>
 
 <!--<div align="center">-->
