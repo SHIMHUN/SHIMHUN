@@ -41,6 +41,9 @@
   <a>
     <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  </a>
 </div>
 
 <!--<div align="center">-->
