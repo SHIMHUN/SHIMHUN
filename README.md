@@ -35,6 +35,8 @@
   <a>
     <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </a>
+
+  <!--
   <a>
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   </a>
@@ -44,6 +46,8 @@
   <a>
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   </a>
+  -->
+  
 </div>
 
 <!--<div align="center">-->
