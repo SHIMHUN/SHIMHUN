@@ -19,7 +19,7 @@
   
   -----
 
-  ### 📚 Studying now
+  ### 📚 Currently Studying
 
 <div align="center">
   
