@@ -78,7 +78,7 @@
 
   ### 🏆 Algorithm 
   
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://solved.ac/shimhun99/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99" alt="Solved.ac Profile" />
   </a>
