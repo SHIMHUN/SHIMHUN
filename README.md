@@ -76,9 +76,9 @@
 
   ### 🏆 Algorithm 
   
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <a href="https://solved.ac/shimhun99/" title="Solved.ac Profile">
-    <img width="380" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99" alt="Solved.ac Profile" />
   </a>
-  <img width="380" src="https://raw.githubusercontent.com/SHIMHUN/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
+  <img src="https://raw.githubusercontent.com/SHIMHUN/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
 </div>
