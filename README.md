@@ -21,7 +21,7 @@
 
   ### 📚 Currently Studying
 
-<div style="text-align: left;">
+<div style="text-align: left;" width="100%">
   
   <a>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
