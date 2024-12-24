@@ -54,7 +54,6 @@
 -----
 
 ### 🏆 Algorithm 
-
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
   <a href="https://solved.ac/shimhun99/" title="Solved.ac Profile">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99" alt="Solved.ac Profile" />
