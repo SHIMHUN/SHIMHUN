@@ -63,7 +63,7 @@
 
   ### 📊 Stats
   
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=soft-green&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
