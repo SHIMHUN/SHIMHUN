@@ -24,6 +24,8 @@
 <div style="text-align: left;" width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
@@ -34,22 +36,8 @@
 </div>
 
 
-  -----
 
-  <-- ### 💻 Stack
-
-  <div style="text-align: left;">
-    <a>
-      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </a>
-  </div>  
-</div> -->
+  <-- ### 💻 Stack -->
   
   -----
 
