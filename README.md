@@ -38,13 +38,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 <div style="text-align: left;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
