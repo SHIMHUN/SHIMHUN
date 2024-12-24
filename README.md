@@ -22,19 +22,14 @@
   ### 📚 Currently Studying
 
 <div style="text-align: left;" width="100%">
-  
-  <a>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  </a>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
   
 </div>
 
