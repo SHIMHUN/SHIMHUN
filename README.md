@@ -98,6 +98,6 @@
 
   ### 🏆 Algorithm 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/) -->
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99)](https://solved.ac/shimhun99/)
+  ![Programmers Badge](https://raw.githubusercontent.com/SHIMHUN/Programmers_Badge_Generator/main/result/result.svg)
  </div>
