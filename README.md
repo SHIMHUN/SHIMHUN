@@ -21,7 +21,7 @@
 
   ### 📚 Currently Studying
 
-<div style="text-align: left;" width="100%">
+<div style="text-align: left;">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
