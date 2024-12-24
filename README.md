@@ -63,14 +63,14 @@
 
   ### 📊 Stats
   
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=soft-green&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
-    </a>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=380 src="http://github-readme-streak-stats.herokuapp.com?user=SHIMHUN&hide_border=true&theme=soft-green" alt="" />
-    </a>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=soft-green&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+  </a>
+  <a href="https://git.io/streak-stats" title="Go to Source">
+    <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=SHIMHUN&hide_border=true&theme=soft-green" alt="" />
+  </a>
+</div>
   
   <br><br><br><br><br><br><br><br>
   
