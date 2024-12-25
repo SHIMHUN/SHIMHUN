@@ -18,7 +18,7 @@
 -----
 
 ### 💻 Studying now
-<div style="text-align: left;">
+<div style="text-align: center;">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px" style="margin-right: 10px;"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px" style="margin-right: 10px;"/>
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px" style="margin-right: 10px;"/ -->
@@ -34,7 +34,7 @@
 -----
 
 ### 📊 Stats
-<div style="text-align: left;">
+<div style="text-align: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=SHIMHUN&show_icons=true&theme=soft-green&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
   </a>
@@ -46,7 +46,7 @@
 -----
 
 ### 🏆 Algorithm 
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+<div style="display: center; flex-direction: column; align-items: flex-start; gap: 20px;">
   <a href="https://solved.ac/shimhun99/" title="Solved.ac Profile">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shimhun99" alt="Solved.ac Profile" />
   </a>
